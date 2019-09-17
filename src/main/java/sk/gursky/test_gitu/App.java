@@ -11,7 +11,7 @@ public class App
         System.out.println( "Hello Europe!" );
         for (int i = 0; i<5; i++) {
             System.out.println( "Git je super." );
-
         }
+        System.out.println("Notebooky su cool!");
     }
 }
